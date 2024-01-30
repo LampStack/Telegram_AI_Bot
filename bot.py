@@ -4,7 +4,7 @@
 # ┌──────────────────────────────────────┐
 # │                                      │
 # │    > installing guide :              │
-# │       pip install pyrogram==2.0.15   │
+# │       pip install pyrogram==2.0.106  │
 # │       pip install replicate          │
 # │       pip install asyncio            │
 # │       pip install requests           │
